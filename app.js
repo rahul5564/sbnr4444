@@ -12,4 +12,4 @@ function createheart() {
     document.body.appendChild(heart);
 }
 
-setInterval(createheart,300);
+setInterval(createheart,100);
